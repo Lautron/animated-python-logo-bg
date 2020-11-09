@@ -1,19 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Exo:400,700");
-.pytop {
-  fill: #5a189a;
-}
-
-.pybott {
-  fill: #7b2cbf;
-}
-
 * {
   margin: 0px;
   padding: 0px;
-}
-
-body {
-  font-family: 'Exo', sans-serif;
 }
 
 .context {
