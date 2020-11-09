@@ -23,10 +23,11 @@
   height: 20rem;
 }
 
-.test {
-  width: 400px;
-  height: 400px;
-  -webkit-filter: url(#wavy);
-          filter: url(#wavy);
+.pytop {
+  fill: #5a189a;
+}
+
+.pybott {
+  fill: #7b2cbf;
 }
 /*# sourceMappingURL=styles.css.map */
